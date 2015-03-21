@@ -1,3 +1,6 @@
 [submodule "java/com/randommods/CraftableOres"]
 	path = java/com/randommods/CraftableOres
 	url = git@github.com:RandomMinecraftMods/CraftableOres.git
+[submodule "java/com/randommods/CraftableEverything"]
+	path = java/com/randommods/CraftableEverything
+	url = git@github.com:RandomMinecraftMods/CraftableEverything.git
